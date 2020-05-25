@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://images.macrumors.com/t/Wdfn5pdWqBJazUpB7qJnTC97z3Y=/800x0/article-new/2017/10/iphonexplus1-800x572.jpg",
+      "title": "Apple iPhone X Plus",
+      "description": "5.8-inch Super Retina display (OLED) with HDR. IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes). ",
+      "price": 91999
+    },
+    {
+      "id": 2,
+      "image": "https://st1.bgr.in/wp-content/uploads/2017/02/ce1307adfee8b4ec0a54b9563925d3ea_375x500_1.jpg",
+      "title": "Gionee A1 (Black, 64GB)",
+      "description": "16MP Front camera (f/2 Aperture, 5P Lens, 2 µm Pixel size) with phase detection autofocus technology (PDAF), a 13 MP Primary camera capable of capturing improved low-light selfies and videos.",
+      "price": 15500
+    },
+    {
+      "id": 3,
+      "image": "https://st1.bgr.in/wp-content/uploads/2017/02/ce1307adfee8b4ec0a54b9563925d3ea_375x500_1.jpg",
+      "title": "Nokia 4.2 (Black, 3GB RAM, 32GB storage)",
+      "description": "13MP+2MP primary camera with AF/F2.2/1.12µm + FF/F2.2/1.75µm and 2 phase detection and flash | 8MP front facing camera with FF/F2.0/1.12µm.",
+      "price": 9000
+    },
+    {
+      "id": 4,
+      "image": "https://static.toiimg.com/photo/54946764/Apple-iPhone-7.jpg",
+      "title": "Apple iPhone 7 (32GB)",
+      "description": "4.7-inch Retina HD display. IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes). 12MP camera and 4K video. ",
+      "price": 30000
+    },
+    {
+      "id": 5,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YXG1bDM5L._SY445_.jpg",
+      "title": "Apple iPhone XR (128GB)",
+      "description": "6.1-inch Liquid Retina display (LCD). IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes).",
+      "price": 79999
+    },
+    {
+      "id": 6,
+      "image": "https://st1.bgr.in/wp-content/uploads/2019/01/vivo-apex-2019-front.jpg",
+      "title": "Lava Z92 (Blue, 3GB RAM, 32GB Storage)",
+      "description": "13MP rear camera with dual LED flash | 8MP front camera. 15.9 centimeters (6.22-inch) HD+ capacitive touchscreen with 720 x 1520 pixels resolution.",
+      "price": 11500
+    },
+    {
+      "id": 7,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YXG1bDM5L._SY445_.jpg",
+      "title": "OnePlus 6 (Silk White, 8GB RAM, 128GB Storage)",
+      "description": "Camera: 20+16 MP Dual rear camera with Optical image stabilization, Super slow motion, Portrait mode.",
+      "price": 37999
+    },
+    {
+      "id": 8,
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg",
+      "title": "OnePlus 7 Pro (Mirror Grey, 8GB RAM, 256GB Storage)",
+      "description": "Rear Camera - 48MP (Primary) + 8MP (Tele-photo)+16MP (Ultrawide) | Front Camera - 16 MP POP-UP Camera. Memory, Storage and SIM: 8GB RAM | 256GB internal memory.",
+      "price": 45999
+    },
+    {
+      "id": 9,
+      "image": "https://www.bgr.in/wp-content/uploads/2019/08/OPPO-Reno-2F.jpg",
+      "title": "OPPO Reno2 F (Lake Green, 8GB RAM, 128GB Storage)",
+      "description": "48+8+2+2MP rear camera with photo, video, professional mode, panorama, portrait, night scene, time-lapse photography, slow motion and 16MP front facing camera.",
+      "price": 25999
+    },
+    {
+      "id": 10,
+      "image": "https://www.themobileindian.com/public/thumbs/products/16725/1_0_600.jpg",
+      "title": "realme XT (Pearl Blue, 4GB RAM, 64GB Storage)",
+      "description": "64MP+8MP+2MP+2MP rear camera with f/1.8 aperture, 1/1.72 sensor size, 6P lens, f/2.25 aperture, 5P lens, support super nightscape, portrait lens, six portrait style.",
+      "price": 15900
+    },
+    {
+      "id": 11,
+      "image": "https://phoneaqua.com/products/Samsung-Galaxy-20-Plus.jpg",
+      "title": "Samsung Galaxy S20 + (Cosmic Gray, 8GB RAM, 128GB Storage)",
+      "description": "Quad rear camera - 64MP OIS F2.0 tele camera + 12MP F2.2 ultra wide + 12MP (2PD) OIS F1.8 wide + VGA depth camera.",
+      "price": 80999
+    },
+    {
+      "id": 12,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513kXwzDWOL._AC_.jpg",
+      "title": "Samsung Galaxy A7(Black, 4GB RAM and 64GB Storage)",
+      "description": "24+5+8MP triple camera|24MP front facing camera. Memory, Storage & SIM: 4GB RAM | 64GB storage expandable up to 512GB.",
+      "price": 20999
+    },
+    {
+      "id": 13,
+      "image": "https://static.toiimg.com/photo/63393984/Samsung-Galaxy-J6.jpg",
+      "title": "Samsung Galaxy J6 Plus (4GB RAM, 64GB Storage)",
+      "description": "Camera: 13+5 MP Rear camera | 8 MP front camera. Memory, Storage & SIM: 4GB RAM ",
+      "price": 12999
+    },
+    {
+      "id": 14,
+      "image": "https://www.tayomarket.com/wp-content/uploads/2019/02/S9PLUS.jpg",
+      "title": "Samsung Galaxy S9 Plus (6GB RAM, 64GB Storage)",
+      "description": "12MP+12MP dual rear camera | 8MP front facing camera. 15.81 centimeters (6.2-inch) Super AMOLED capacitive touchscreen with 2960 x 1440 pixels resolution.",
+      "price": 39999
+    },
+    {
+      "id": 15,
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-300,c-at_max/16373-74-1.jpg",
+      "title": "Vivo NEX (Black, 8GB RAM, 128GB Storage)",
+      "description": "Camera: 12+5 MP Dual rear camera with AI HDR scene recognition, Sony IMX363 sensor which supports 1.4μm super large pixel.",
+      "price": 38999
+    },
+    {
+      "id": 16,
+      "image": "https://www.91-img.com/pictures/135480-v6-xiaomi-redmi-note-8-mobile-phone-large-1.jpg",
+      "title": "Xiaomi Redmi Note 8",
+      "description": "13MP rear camera with dual LED flash | 8MP front camera. 15.9 centimeters (6.22-inch) HD+ capacitive touchscreen with 720 x 1520 pixels resolution.",
+      "price": "45000"
+    },
+    {
+      "id": 17,
+      "image": "https://www.91-img.com/pictures/135613-v10-samsung-galaxy-m31-mobile-phone-large-1.jpg",
+      "title": "Samsung Galaxy M31",
+      "description": "6.1-inch Liquid Retina display (LCD). IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes).",
+      "price": 38999
+    },
+    {
+      "id": 18,
+      "image": "https://www.pine64.org/wp-content/uploads/2020/04/PinePhone-2.jpg",
+      "title": "realme M (Pearl Blue, 4GB RAM, 64GB Storage)",
+      "description": "Rear Camera - 48MP (Primary) + 8MP (Tele-photo)+16MP (Ultrawide) | Front Camera - 16 MP POP-UP Camera. Memory, Storage and SIM: 8GB RAM | 256GB internal memory.",
+      "price": 7000
+    }
+  ]
+}
