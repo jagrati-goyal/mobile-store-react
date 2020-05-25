@@ -29,8 +29,7 @@ Develop an “Online Mobile Store” using React. Application should display the
 
 ## Assumptions
 ### Login Credentials
-#### Username: admin
-#### Password: nimda
+` Username: admin Password: nimda `
 
 
 In the project directory, you can run:
