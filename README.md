@@ -30,9 +30,25 @@ Develop an “Online Mobile Store” using React. Application should display the
 ## Assumptions
 ### Login Credentials
 ` Username: admin, Password: nimda `
+
 ### Products Data Link
 Products data deployed on JSON server.
 ##### Link: https://my-json-server.typicode.com/jagrati-goyal/react-mobile-store/products
+
+### Deployed Application
+Application is deployed on Surge
+#### Link: http://online-mobile-store.surge.sh/
+
+### Used Libraries
+#### react-router-dom: for routing purpose
+#### react-modal: For displaying Modals (Eg: Login Modal, Checkout Modal)
+#### reactstrap: For styling the forms (Eg: Form, Button, Input Components)
+#### react-redux: For fetching API and for cart functionality
+#### react-paginate: For Pagination of products
+#### enzyme: For unit testing
+#### enzyme-adapter-react-16: For unit testing 
+#### @fortawesome/react-fontawesome: For icons (Eg: Shopping cart icon, Search icon)
+#### react-reveal/Fade: For styling the application
 
 
 In the project directory, you can run:
