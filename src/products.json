@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://images.macrumors.com/t/Wdfn5pdWqBJazUpB7qJnTC97z3Y=/800x0/article-new/2017/10/iphonexplus1-800x572.jpg",
+      "title": "Apple iPhone X Plus",
+      "description": "5.8-inch Super Retina display (OLED) with HDR. IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes). 12MP dual cameras with dual OIS and 7MP TrueDepth front camera—Portrait mode and Portrait Lighting. A11 Bionic with Neural Engine. Wireless charging—works with Qi chargers.",
+      "price": 91999
+    },
+    {
+      "id": 2,
+      "image": "https://st1.bgr.in/wp-content/uploads/2017/02/ce1307adfee8b4ec0a54b9563925d3ea_375x500_1.jpg",
+      "title": "Gionee A1 (Black, 64GB)",
+      "description": "16MP Front camera (f/2 Aperture, 5P Lens, 2 µm Pixel size) with phase detection autofocus technology (PDAF), a 13 MP Primary camera (f/2 Aperture, 5P Lens, 1.12 µm Pixel size) capable of capturing improved low-light selfies and videos. Upgraded Selfie Flash covered by custom filers for steady light. Face Beauty 2 for enhancing selfies and video calls (WhatsApp & Messenger). 13.97 cm (5.5) Full HD IPS with 2.5D Curved edge display, 1920 x 1080 pixels resolution and 401 PPI pixel density; Gorilla Glass Protection. Metallic Body Ratio - 87.5 %",
+      "price": 15500
+    },
+    {
+      "id": 3,
+      "image": "https://st1.bgr.in/wp-content/uploads/2017/02/ce1307adfee8b4ec0a54b9563925d3ea_375x500_1.jpg",
+      "title": "Nokia 4.2 (Black, 3GB RAM, 32GB storage)",
+      "description": "13MP+2MP primary camera with AF/F2.2/1.12µm + FF/F2.2/1.75µm and 2 phase detection and flash | 8MP front facing camera with FF/F2.0/1.12µm. 14.5034 centimeters (5.71-inch) with HD+ 19:9 pixels resolution and 19:9 aspect ratio. Memory, Storage & SIM: 3GB RAM | 32GB internal memory expandable up to 400GB | Dual SIM (nano+nano) dual-standby (4G+4G). 3000 lithium-ion battery. 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase.",
+      "price": 9000
+    },
+    {
+      "id": 4,
+      "image": "https://static.toiimg.com/photo/54946764/Apple-iPhone-7.jpg",
+      "title": "Apple iPhone 7 (32GB)",
+      "description": "4.7-inch Retina HD display. IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes). 12MP camera and 4K video. 7MP FaceTime HD camera with Retina Flash. Touch ID for secure authentication. A10 Fusion chip. iOS 12 with Screen Time, Group FaceTime, and even faster performance.",
+      "price": 30000
+    },
+    {
+      "id": 5,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YXG1bDM5L._SY445_.jpg",
+      "title": "Apple iPhone XR (128GB)",
+      "description": "6.1-inch Liquid Retina display (LCD). IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes). 12MP camera with OIS and 7MP TrueDepth front camera—Portrait mode, Portrait Lighting, Depth Control, and Smart HDR. Face ID for secure authentication. A12 Bionic with next-generation Neural Engine. Wireless charging—works with Qi chargers. iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime.",
+      "price": 79999
+    },
+    {
+      "id": 6,
+      "image": "https://st1.bgr.in/wp-content/uploads/2019/01/vivo-apex-2019-front.jpg",
+      "title": "Lava Z92 (Blue, 3GB RAM, 32GB Storage)",
+      "description": "13MP rear camera with dual LED flash | 8MP front camera. 15.9 centimeters (6.22-inch) HD+ capacitive touchscreen with 720 x 1520 pixels resolution | with 2.5D corning gorilla glass. Memory, Storage and SIM: 3GB RAM | 32GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G). Android Oreo v8.1 operating system with 2GHz MediaTek Helio P22 octa core processor. 3260mAH lithium-polymer battery. 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase.",
+      "price": 11500
+    },
+    {
+      "id": 7,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51YXG1bDM5L._SY445_.jpg",
+      "title": "OnePlus 6 (Silk White, 8GB RAM, 128GB Storage)",
+      "description": "Camera: 20+16 MP Dual rear camera with Optical image stabilization, Super slow motion, Portrait mode | 16 MP front camera. Memory, Storage & SIM: 8GB RAM | 128GB storage | Dual nano SIM with dual standby (4G+4G). Operating System and Processor: Android Oreo 8.1 Oxygen operating system based on with Qualcomm Snapdragon 845 octa core processor. Battery: 3300 mAH lithium Polymer battery with Dash Charge technology. Included in box: Screen protector (pre-applied), Translucent case, Dash Type-C cable, Dash power adaptor.",
+      "price": 37999
+    },
+    {
+      "id": 8,
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-7-pro-r1.jpg",
+      "title": "OnePlus 7 Pro (Mirror Grey, 8GB RAM, 256GB Storage)",
+      "description": "Rear Camera - 48MP (Primary) + 8MP (Tele-photo)+16MP (Ultrawide) | Front Camera - 16 MP POP-UP Camera. Memory, Storage and SIM: 8GB RAM | 256GB internal memory | Dual SIM dual-standby (4G+4G). 4000mAH lithium-ion battery, The display curves over the edges for an arresting design and an immersive viewing experience. 16.9 centimeters (6.67-inch) multi-touch capacitive touchscreen with 3120 x 1440 pixels resolution. 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase.",
+      "price": 45999
+    },
+    {
+      "id": 9,
+      "image": "https://www.bgr.in/wp-content/uploads/2019/08/OPPO-Reno-2F.jpg",
+      "title": "OPPO Reno2 F (Lake Green, 8GB RAM, 128GB Storage)",
+      "description": "48+8+2+2MP rear camera with photo, video, professional mode, panorama, portrait, night scene, time-lapse photography, slow motion and 16MP front facing camera. 16.5 centimeters (6.5-inch) AMOLED display with 2340 x 1080 pixels resolution, 394 ppi pixel density and 16M color support | Corning Gorilla Glass 5 protection with screen-to-body ratio of 91.6%. Memory, Storage & SIM: 8GB RAM | 128GB internal memory expandable up to 128GB | Dual SIM (nano+nano) dual-standby (4G+4G). 4000mAH lithium-polymer battery. ",
+      "price": 25999
+    },
+    {
+      "id": 10,
+      "image": "https://www.themobileindian.com/public/thumbs/products/16725/1_0_600.jpg",
+      "title": "realme XT (Pearl Blue, 4GB RAM, 64GB Storage)",
+      "description": "64MP+8MP+2MP+2MP rear camera with f/1.8 aperture, 1/1.72 sensor size, 6P lens, f/2.25 aperture, 5P lens, support super nightscape, portrait lens, six portrait style, macro lens, 4cm shooting distance | 16MP front camera. 16.256 centimeters (6.4-inch) Super AMOLED capacitive touchscreen with 1080 x 2340 pixels resolution, 402 ppi pixel density. Memory, Storage & SIM: 4GB RAM | 64GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G). 4000mAH lithium-ion battery. Android Pie 9.0 operating system with Qualcomm SDM712 Snapdragon 712 (10 nm) (2x2.3 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver) octa core processor.",
+      "price": 15900
+    },
+    {
+      "id": 11,
+      "image": "https://phoneaqua.com/products/Samsung-Galaxy-20-Plus.jpg",
+      "title": "Samsung Galaxy S20 + (Cosmic Gray, 8GB RAM, 128GB Storage)",
+      "description": "Quad rear camera - 64MP OIS F2.0 tele camera + 12MP F2.2 ultra wide + 12MP (2PD) OIS F1.8 wide + VGA depth camera | 10MP (2PD) OIS F2.2 front punch hole camera | rear LED flash. 16.95 centimeters (6.7-inch) dynamic AMOLED display with capacitive touchscreen, 3200 x 1440 pixels resolution | Quad HD+ resolution. Memory, Storage & SIM: 8GB RAM | 128GB internal memory expandable up to 1TB | Dual SIM (nano+nano) dual-standby (4G+4G), microSD card slot (expandable upto 1 TB), hybrid sim slot. Android v10.0 operating system with 2.73GHz+2.5GHz+2GHz Exynos 990 octa core processor. 4500mAH (non-removable) lithium-ion battery | Face-unlock & finger print sensor.",
+      "price": 80999
+    },
+    {
+      "id": 12,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/513kXwzDWOL._AC_.jpg",
+      "title": "Samsung Galaxy A7(Black, 4GB RAM and 64GB Storage)",
+      "description": "24+5+8MP triple camera|24MP front facing camera. The internet usage time is 12 hours for 3G as well as for LTE it is for 14 hours.The video playback time is 17 hours and the audio playback time is 48 hours.The talk time is upto 19 hours. 15.36 centimeters (6-inch) super AMOLED capacitive touchscreen with 2220 x 1080 pixels resolution. Memory, Storage & SIM: 4GB RAM | 64GB storage expandable up to 512GB | Dual nano SIM with dual standby (4G+4G). Android v8.0 Nougat operating system with 2.2GHz + 1.6GHz Exynos 7885 octa core processor. 3300mAH lithium-ion battery.",
+      "price": 20999
+    },
+    {
+      "id": 13,
+      "image": "https://static.toiimg.com/photo/63393984/Samsung-Galaxy-J6.jpg",
+      "title": "Samsung Galaxy J6 Plus (4GB RAM, 64GB Storage)",
+      "description": "Camera: 13+5 MP Rear camera | 8 MP front camera. Display: 15.2 centimeters (6-inch) HD+ capacitive touchscreen display with 720x1480 pixels and 18:5:9 aspect ratio. Memory, Storage & SIM: 4GB RAM | 64GB storage expandable up to 512GB | Dual SIM (nano+nano) with dual standby (4G+4G). Operating System and Processor: Android v8.1 Oreo operating system operating system with 1.4GHz Qualcomm Snapdragon SD425 quad core processor. Battery: 3300 mAH lithium ion battery.",
+      "price": 12999
+    },
+    {
+      "id": 14,
+      "image": "https://www.tayomarket.com/wp-content/uploads/2019/02/S9PLUS.jpg",
+      "title": "Samsung Galaxy S9 Plus (6GB RAM, 64GB Storage)",
+      "description": "12MP+12MP dual rear camera | 8MP front facing camera. 15.81 centimeters (6.2-inch) Super AMOLED capacitive touchscreen with 2960 x 1440 pixels resolution. Memory, Storage & SIM: 6GB RAM | 64GB storage expandable up to 256GB | Dual nano SIM with dual standby (4G+4G). Android v8.0 Oreo operating system with Exynos 9810 octa core processor. 3500mAH lithium-ion battery.",
+      "price": 39999
+    },
+    {
+      "id": 15,
+      "image": "https://assets.mspimages.in/c/tr:w-375,h-300,c-at_max/16373-74-1.jpg",
+      "title": "Vivo NEX (Black, 8GB RAM, 128GB Storage)",
+      "description": "Camera: 12+5 MP Dual rear camera with AI HDR scene recognition, Sony IMX363 sensor which supports 1.4μm super large pixel, f/1.8 large aperture and 4-axis OIS | 8 MP Elevating front camera (NEX’s front camera is hidden behind display). Display: 16.74 centimeters (6.59-inch) Full HD+ Super AMOLED display with 2316x1080 pixels. Memory, Storage & SIM: 8GB RAM | 128GB storage | Dual SIM (micro+nano) dual standby (4G+4G). Operating System and Processor: Android v8.1 Oreo based on Funtouch operating system 4.0 operating system with 2.8GHz Qualcomm Snapdragon 845 octa core processor. Battery: 4000 mAH lithium ion battery with Dual-Engine Fast Charging technology.",
+      "price": 38999
+    }
+  ]
+}
