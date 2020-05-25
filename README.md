@@ -3,7 +3,7 @@
 Develop an “Online Mobile Store” using React. Application should display the list of mobiles. User should be able to search mobiles, view details of the product, add the product to the cart and place order. Following are the key functional aspects:
 
 •	Show the list of products
-•	This list of products should be fetched from local json server via an api call (refer to https://www.npmjs.com/package/json-server)
+• This list of products should be fetched from local json server via an api call (refer to https://www.npmjs.com/package/json-server)
 
 •	Filter the list, based on search
 
@@ -27,10 +27,10 @@ Develop an “Online Mobile Store” using React. Application should display the
 
 •	Unit Testing should be done of at least 2 components
 
-# Assumptions
-## Login Credentials
-### Username: admin
-### Password: nimda
+## Assumptions
+### Login Credentials
+#### Username: admin
+#### Password: nimda
 
 
 In the project directory, you can run:
