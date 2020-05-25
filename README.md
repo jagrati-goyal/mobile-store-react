@@ -39,7 +39,7 @@ Products data deployed on JSON server.
 Application is deployed on Surge
 #### Link: http://online-mobile-store.surge.sh/
 
-### Used Libraries
+### `Used Libraries`
 #### react-router-dom: for routing purpose
 #### react-modal: For displaying Modals (Eg: Login Modal, Checkout Modal)
 #### reactstrap: For styling the forms (Eg: Form, Button, Input Components)
